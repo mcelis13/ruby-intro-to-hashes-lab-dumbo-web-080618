@@ -3,7 +3,9 @@ return Hash.new
 end
 
 def actor
-
+ hash = {
+	 :name => "Dwayne the Rock Johnson"
+ }
 end
 
 def monopoly
